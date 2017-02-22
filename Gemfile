@@ -31,8 +31,12 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 gem 'bcrypt'
-
+# Provides authentication
 gem 'devise'
+# Helps on assigning the roles to users and check which roles they have
+gem 'rolify'
+
+gem 'cancancan'
 
 gem 'jquery-ui-rails'
 

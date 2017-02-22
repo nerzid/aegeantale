@@ -1,0 +1,28 @@
+tr:
+  label:
+    user:
+      form_name:
+        login: "Giriş Formu"
+        register: "Kayıt Formu"
+      form_title:
+        login: "Giriş Yap"
+        register: "Hesap Oluştur"
+      form_button:
+        login: "Giriş"
+        register: "Kayıt Ol"
+      form_content:
+        firstname: "Ad"
+        lastname: "Soyad"
+        password: "Şifre"
+        password_confirmation: "Şifre Tekrar"
+        email: "E-posta"
+        terms_and_conditions_html: "<a href='%{terms_and_conditions_url}'>Kullanım Şartlarını</a> okudum ve kabul ediyorum."
+        i_already_have_an_account: "Zaten üye misiniz ?"
+      link_name:
+        login: "Giriş Yap"
+        register: "Kayıt Ol"
+        signout: "Çıkış Yap"
+    general:
+      slogan: "Öğrencilerin ve Hocaların işbirliği yaptığı yer"
+      all_rights_reserved: "Şirketi, Tüm Hakları Saklıdır."
+
