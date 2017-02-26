@@ -5740,7 +5740,7 @@ a.feature-icon:hover {
   float: left;
   overflow: hidden;
   padding-left: 75px;
-    background-image: url("../img/tam-fatura-giris-logo.png");
+    /*background-image: url("../img/tam-fatura-giris-logo.png"); */
  background-repeat: no-repeat;
   background-position: left center;
 }

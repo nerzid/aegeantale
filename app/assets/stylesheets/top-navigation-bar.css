@@ -1,0 +1,15 @@
+html{
+    background-color: #F4F5F9
+}
+
+body { padding-top: 50px; }
+
+.navbar.navbar-default{
+    background-color: #3b5998;
+    color: #fff;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+    box-shadow: none;
+}
