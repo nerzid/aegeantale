@@ -9,7 +9,7 @@ en:
         register: "Sign up"
       form_button:
         login: "Login"
-        register: "Create"
+        register: "Sign Up"
       form_content:
         firstname: "First Name"
         lastname: "Last Name"

@@ -4,6 +4,14 @@ class HomeController < ApplicationController
 
   end
 
+  def sign_up
+
+  end
+
+  def sign_in
+
+  end
+
   def faq
 
   end

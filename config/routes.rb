@@ -5,5 +5,5 @@ Rails.application.routes.draw do
 
   get 'home/faq', to: 'home#faq', path: '/faq'
 
-  root to: 'home#index'
+  root to: 'home#faq'
 end
