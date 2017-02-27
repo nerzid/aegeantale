@@ -1,23 +1,46 @@
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
-    <div class="col-xs-8 col-md-8 col-lg-8">
-      <form class="navbar-form navbar-right">
-        <div class="form-group">
-          <div class="input-group input-group-md">
+    <div class="row">
+      <div class="col-xs-8">
+        <form class="navbar-form navbar-right">
+          <div class="input-group">
             <span class="input-group-addon transparent"><span class="glyphicon glyphicon-search" style="margin-top: 0px;"></span></span>
             <input class="form-control left-border-none" placeholder="Search things..." type="text" name="search_text">
           </div>
-        </div>
-      </form>
-    </div>
-    <div class="col-xs-4 col-md-4 col-lg-4">
-      <form class="navbar-form navbar-left">
-        <div class="form-group">
-          <a href="#"><span class="glyphicon glyphicon-home" style="font-size: 21px; margin-top: 0px;"></span></a>
-          <a href="#"><span class="glyphicon glyphicon-envelope" style="font-size: 21px;margin-top: 0px;"></span></a>
-          <a href="#"><span class="glyphicon glyphicon-user" style="font-size: 21px;margin-top: 0px;"></span></a>
-        </div>
-      </form>
+        </form>
+      </div>
+      <div class="col-xs-4">
+        <form class="navbar-form navbar-left">
+          <div class="form-group">
+            <%= link_to root_path,
+                        "rel" => "tooltip", "data-toggle" => "tooltip", "data-placement" => "bottom", "title" => "",
+                        "data-original-title" => "Go to Home Page" do %>
+                <span class="glyphicon glyphicon-home" style="font-size: 21px; margin-top: 0px;"></span>
+            <% end %>
+            <%= link_to destroy_user_session_path, :method => :delete,
+                        "rel" => "tooltip", "data-toggle" => "tooltip", "data-placement" => "bottom", "title" => "",
+                        "data-original-title" => "My Messages" do %>
+                <span class="glyphicon glyphicon-envelope" style="font-size: 21px; margin-top: 0px;"><span class="badge progress-bar-danger">4</span></span>
+            <% end %>
+            <%= link_to user_path(current_user),
+                        "rel" => "tooltip", "data-toggle" => "tooltip", "data-placement" => "bottom", "title" => "",
+                        "data-original-title" => "Go to Profile Page" do %>
+                <span class="glyphicon glyphicon-user" style="font-size: 21px; margin-top: 0px;"></span>
+            <% end %>
+            <%= link_to destroy_user_session_path, :method => :delete,
+                        "rel" => "tooltip", "data-toggle" => "tooltip", "data-placement" => "bottom", "title" => "",
+                        "data-original-title" => "Sign Out" do %>
+                <span class="glyphicon glyphicon-log-out" style="font-size: 21px; margin-top: 0px;"></span>
+            <% end %>
+          </div>
+        </form>
+      </div>
     </div>
   </div>
 </nav>
+
+<script type="application/javascript">
+    $(document).ready(function(){
+        $('[data-toggle="tooltip"]').tooltip();
+    });
+</script>

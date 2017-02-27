@@ -41,6 +41,7 @@ gem 'cancancan'
 
 gem 'jquery-ui-rails'
 
+gem 'friendly_id', '~> 5.1.0'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
