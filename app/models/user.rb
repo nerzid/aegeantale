@@ -1,4 +1,7 @@
 class User < ApplicationRecord
+
+  has_many :posts
+
   rolify
 
   # enum role: [:student, :teacher, :seller]
