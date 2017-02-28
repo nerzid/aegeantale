@@ -8,6 +8,8 @@ Rails.application.routes.draw do
     authenticated :user do
 
       get "/users/:id", to: "users#show"
+      get "/posts/new", to: "posts#new"
+      post "/posts", to: "posts#create"
 
       root "users#index"
     end

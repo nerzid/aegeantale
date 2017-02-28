@@ -1,0 +1,24 @@
+<div class="col-xs-6 col-xs-offset-3">
+  <div class="panel panel-default">
+    <div class="panel-heading row" style="margin: 0;">
+      <div class="col-xs-1" style="padding: 0;">
+        <img class="pull-left" src="https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-1/p40x40/15673026_10155498726913265_8459015458711860567_n.jpg?oh=eeca2b316b2997c88aca6f5c449626a0&oe=59716945" width="40" height="40">
+      </div>
+      <div class="col-xs-11" style="padding: 0;">
+        <h3 class="panel-title pull-left"><%= firstname %> <%= lastname %></h3>
+        <h3 class="panel-title pull-right"><%= time_ago_in_words(post_created_at) %> <i class="fa fa-clock-o" aria-hidden="true"></i></h3>
+      </div>
+    </div>
+    <div class="panel-body">
+      <%= content %>
+      <hr/>
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Write a comment ...">
+        <span class="input-group-btn" id="add">
+            <a href="#">
+            <span class="icon-ar icon-ar-sm icon-ar-circle"><i class="fa fa-send"></i></span></a>
+          </span>
+      </div>
+    </div>
+  </div>
+</div>

@@ -17,7 +17,7 @@ class UsersController < ApplicationController
   helper_method :is_seller?
 
   def index
-
+    @post = Post.new
   end
 
   def timeline
