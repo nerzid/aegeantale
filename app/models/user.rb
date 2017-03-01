@@ -3,6 +3,8 @@ class User < ApplicationRecord
   has_many :posts
   has_many :groups, :through => :group_maps
 
+  enum status: [:waiting, :accepted, :rejected]
+
   rolify
 
   # enum role: [:student, :teacher, :seller]
