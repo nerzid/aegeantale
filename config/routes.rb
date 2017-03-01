@@ -6,7 +6,6 @@ Rails.application.routes.draw do
 
   devise_scope :user do
     authenticated :user do
-
       get "/users/:id", to: "users#show"
       get "/posts/new", to: "posts#new"
       post "/posts", to: "posts#create"
