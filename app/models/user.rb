@@ -1,9 +1,8 @@
 class User < ApplicationRecord
 
   has_many :posts
+  has_many :group_maps
   has_many :groups, :through => :group_maps
-
-  enum status: [:waiting, :accepted, :rejected]
 
   rolify
 

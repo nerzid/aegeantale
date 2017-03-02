@@ -1,0 +1,4 @@
+class GroupMapsController < ApplicationController
+
+
+end

@@ -2,13 +2,12 @@ Rails.application.routes.draw do
   devise_for :users, controllers: {
       :sessions => "users/sessions",
       :registrations => "users/registrations"}
-  resources :users
 
   devise_scope :user do
     authenticated :user do
-      get "/users/:id", to: "users#show"
-      get "/posts/new", to: "posts#new"
-      post "/posts", to: "posts#create"
+      resources :users
+      resources :posts, :only => [:new, :create]
+      resources :groups, :only => [:show, :new, :create]
 
       root "users#index"
     end

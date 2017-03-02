@@ -18,6 +18,7 @@ class UsersController < ApplicationController
 
   def index
     @post = Post.new
+    @group = Group.new
   end
 
   def timeline
