@@ -8,4 +8,8 @@ class GroupMap < ApplicationRecord
   # If we change the statuses in enum
   enum status: [:waiting, :accepted, :rejected]
 
+  def get_status(user,group)
+    GroupMap.find(params[user,group]).status
+  end
+
 end

@@ -8,14 +8,23 @@ TEACHA
 BOK
 <% end %>-->
 <%= render 'layouts/top-navigation-bar' %>
-<%= link_to 'create group', new_group_path %>
 <div class="container">
-  <%= render 'posts/new' %>
-  <%= render 'posts/love' %>
-  <% current_user.posts.reverse_each do |post| %>
-      <%= render partial: 'posts/post', :locals => {:firstname => current_user.firstname,
-                                                    :lastname => current_user.lastname,
-                                                    :content => post.content,
-                                                    :post_created_at => post.created_at} %>
-  <% end %>
+  <div class="row">
+    <div class="col-xs-3">
+      <%= render 'groups/index' %>
+    </div>
+    <div class="col-xs-6">
+      <%= render 'posts/new' %>
+      <%= render 'posts/love' %>
+      <% current_user.posts.reverse_each do |post| %>
+          <%= render partial: 'posts/post', :locals => {:firstname => current_user.firstname,
+                                                        :lastname => current_user.lastname,
+                                                        :content => post.content,
+                                                        :post_created_at => post.created_at} %>
+      <% end %>
+    </div>
+    <div class="col-xs-3">
+      <%= render 'groups/index' %>
+    </div>
+  </div>
 </div>
