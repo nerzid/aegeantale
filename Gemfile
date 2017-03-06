@@ -42,6 +42,13 @@ gem 'cancancan'
 gem 'jquery-ui-rails'
 
 gem 'friendly_id', '~> 5.1.0'
+
+# Image upload
+gem 'carrierwave', '~> 1.0'
+
+# Mysql Database
+gem 'mysql2'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
