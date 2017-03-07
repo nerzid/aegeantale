@@ -44,7 +44,7 @@ gem 'jquery-ui-rails'
 gem 'friendly_id', '~> 5.1.0'
 
 # Image upload
-gem 'carrierwave', '~> 1.0'
+gem 'paperclip'
 
 # Mysql Database
 gem 'mysql2'

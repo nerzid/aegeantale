@@ -11,7 +11,12 @@
         </div>
       </div>
       <div class="profile-avatar-container">
-        <img class="profile-avatar" height="250px" width="250px" src="https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/15673026_10155498726913265_8459015458711860567_n.jpg?oh=24a471672467a43d9d0bb2082ea9e543&oe=5972BCEA" alt="">
+        <!--<img class="profile-avatar" height="250px" width="250px" src="https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/15673026_10155498726913265_8459015458711860567_n.jpg?oh=24a471672467a43d9d0bb2082ea9e543&oe=5972BCEA" alt="">-->
+        <%= form_for @user, url: user_path, html: { multipart: true } do |form| %>
+            <%= form.file_field :avatar %>
+            <%= form.submit %>
+        <% end %>
+        <%= image_tag @user.avatar.url(:medium), :class => "profile-avatar" %>
       </div>
     </div>
   </div>
@@ -92,7 +97,7 @@
           <div class="panel panel-primary">
             <div class="panel-heading"><i class="fa fa-picture-o"></i> Post an Image</div>
             <div class="video">
-              <img src="assets/img/demo/office2.jpg" alt="" width="100%" class="img-responsive">
+              <!--<img src="assets/img/demo/office2.jpg" alt="" width="100%" class="img-responsive">-->
             </div>
           </div>
         </li>

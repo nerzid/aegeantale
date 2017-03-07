@@ -26,6 +26,8 @@ Rails.application.configure do
     config.cache_store = :null_store
   end
 
+  Paperclip.options[:command_path] = "C:/Program Files/ImageMagick-7.0.5-Q16/"
+
   config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
 
   # Don't care if the mailer can't send.
