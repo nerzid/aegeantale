@@ -49,6 +49,9 @@ gem 'paperclip'
 # Mysql Database
 gem 'mysql2'
 
+# Emoji support
+gem 'rails_emoji'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 

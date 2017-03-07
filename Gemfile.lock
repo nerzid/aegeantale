@@ -121,6 +121,8 @@ GEM
       nokogiri (~> 1.6)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
+    rails_emoji (1.7.1)
+      rails (>= 3.1.0)
     railties (5.0.1)
       actionpack (= 5.0.1)
       activesupport (= 5.0.1)
@@ -187,6 +189,7 @@ DEPENDENCIES
   paperclip
   puma (~> 3.0)
   rails (~> 5.0.1)
+  rails_emoji
   rolify
   sass-rails (~> 5.0)
   sqlite3
