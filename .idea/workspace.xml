@@ -2,13 +2,891 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a532ac-a67c-4457-a7ad-c4841dcbe4ff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/aegeantale.iml" afterPath="$PROJECT_DIR$/.idea/aegeantale.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/+1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/1234.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/8ball.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ab.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/abc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/abcd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/accept.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/aerial_tramway.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/airplane.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/alarm_clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/alien.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ambulance.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/anchor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/angel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/anger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/angry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/anguished.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ant.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/apple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/aquarius.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/aries.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_backward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_double_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_double_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_down_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_forward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_heading_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_heading_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_lower_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_lower_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_right_hook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_up_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_up_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_upper_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrow_upper_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrows_clockwise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/arrows_counterclockwise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/art.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/articulated_lorry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/astonished.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/atm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/b.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/baby.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/baby_bottle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/baby_chick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/baby_symbol.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/baggage_claim.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/balloon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ballot_box_with_check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bamboo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/banana.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bangbang.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bar_chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/barber.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/baseball.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/basketball.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bath.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bathtub.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/battery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/beer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/beers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/beetle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/beginner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bento.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bicyclist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bike.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bikini.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bird.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/birthday.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/black_circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/black_joker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/black_medium_small_square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/black_medium_square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/black_nib.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/black_small_square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/black_square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/black_square_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/blossom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/blowfish.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/blue_book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/blue_car.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/blue_heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/blush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/boar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/boat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bomb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bookmark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bookmark_tabs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/books.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/boom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/boot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bouquet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bowling.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bowtie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/boy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bread.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bride_with_veil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bridge_at_night.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/briefcase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/broken_heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bug.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bullettrain_front.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bullettrain_side.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/busstop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/bust_in_silhouette.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/busts_in_silhouette.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cactus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/calling.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/camel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cancer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/candy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/capital_abcd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/capricorn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/car.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/card_index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/carousel_horse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cat2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/chart_with_downwards_trend.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/chart_with_upwards_trend.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/checkered_flag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cherries.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cherry_blossom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/chestnut.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/chicken.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/children_crossing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/chocolate_bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/christmas_tree.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/church.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cinema.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/circus_tent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/city_sunrise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/city_sunset.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clapper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clipboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock1030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock1130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock1230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock730.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clock930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/closed_book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/closed_lock_with_key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/closed_umbrella.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/clubs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cocktail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/coffee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cold_sweat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/collision.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/computer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/confetti_ball.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/confounded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/confused.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/congratulations.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/construction.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/construction_worker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/convenience_store.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cookie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cool.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/copyright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/corn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/couple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/couple_with_heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/couplekiss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cow2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/credit_card.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/crescent_moon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/crocodile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/crossed_flags.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/crown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/crying_cat_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/crystal_ball.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cupid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/curly_loop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/currency_exchange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/curry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/custard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/customs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/cyclone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dancer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dancers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dango.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/date.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/de.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/deciduous_tree.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/department_store.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/diamond_shape_with_a_dot_inside.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/diamonds.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/disappointed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/disappointed_relieved.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dizzy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dizzy_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/do_not_litter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dog2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dollar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dolls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dolphin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/donut.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/door.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/doughnut.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dragon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dragon_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dromedary_camel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/droplet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/dvd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/e-mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ear_of_rice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/earth_africa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/earth_americas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/earth_asia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/egg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/eggplant.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/eight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/eight_pointed_black_star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/eight_spoked_asterisk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/electric_plug.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/elephant.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/end.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/envelope.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/es.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/euro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/european_castle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/european_post_office.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/evergreen_tree.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/exclamation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/expressionless.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/eyeglasses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/eyes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/facepunch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/factory.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fallen_leaf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/family.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fast_forward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fax.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fearful.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/feelsgood.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/feet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ferris_wheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/file_folder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/finnadie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fire.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fire_engine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fireworks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/first_quarter_moon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/first_quarter_moon_with_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fish.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fish_cake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fishing_pole_and_fish.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/five.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/flags.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/flashlight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/floppy_disk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/flower_playing_cards.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/flushed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/foggy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/football.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fork_and_knife.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fountain.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/four.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/four_leaf_clover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/free.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fried_shrimp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fries.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/frog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/frowning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/fuelpump.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/full_moon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/full_moon_with_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/game_die.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/gb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/gem.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/gemini.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ghost.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/gift.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/gift_heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/girl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/globe_with_meridians.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/goat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/goberserk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/godmode.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/golf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/grapes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/green_apple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/green_book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/green_heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/grey_exclamation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/grey_question.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/grimacing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/grin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/grinning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/guardsman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/guitar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/gun.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/haircut.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hamburger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hammer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hamster.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/handbag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hankey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hatched_chick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hatching_chick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/headphones.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hear_no_evil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heart_decoration.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heart_eyes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heart_eyes_cat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heartbeat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heartpulse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hearts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heavy_check_mark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heavy_division_sign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heavy_dollar_sign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heavy_exclamation_mark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heavy_minus_sign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heavy_multiplication_x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/heavy_plus_sign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/helicopter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/herb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hibiscus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/high_brightness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/high_heel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hocho.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/honey_pot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/honeybee.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/horse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/horse_racing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hospital.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hotel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hotsprings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hourglass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hourglass_flowing_sand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/house.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/house_with_garden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hurtrealbad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/hushed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ice_cream.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/icecream.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/id.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ideograph_advantage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/imp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/inbox_tray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/incoming_envelope.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/information_desk_person.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/information_source.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/innocent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/interrobang.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/it.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/izakaya_lantern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/jack_o_lantern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/japan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/japanese_castle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/japanese_goblin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/japanese_ogre.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/jeans.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/joy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/joy_cat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/jp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/keycap_ten.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/kimono.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/kiss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/kissing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/kissing_cat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/kissing_closed_eyes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/kissing_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/kissing_heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/kissing_smiling_eyes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/koala.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/koko.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/kr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/large_blue_circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/large_blue_diamond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/large_orange_diamond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/last_quarter_moon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/last_quarter_moon_with_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/laughing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/leaves.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ledger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/left_luggage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/left_right_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/leftwards_arrow_with_hook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/lemon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/leo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/leopard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/libra.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/light_rail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/lips.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/lipstick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/lock_with_ink_pen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/lollipop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/loop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/loudspeaker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/love_hotel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/love_letter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/low_brightness.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/m.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mag_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mahjong.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mailbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mailbox_closed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mailbox_with_mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mailbox_with_no_mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/man.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/man_with_gua_pi_mao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/man_with_turban.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mans_shoe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/maple_leaf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mask.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/massage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/meat_on_bone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mega.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/melon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/memo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mens.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/metal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/metro.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/microphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/microscope.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/milky_way.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/minibus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/minidisc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mobile_phone_off.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/money_with_wings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/moneybag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/monkey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/monkey_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/monorail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mortar_board.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mount_fuji.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mountain_bicyclist.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mountain_cableway.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mountain_railway.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mouse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mouse2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/movie_camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/moyai.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/muscle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mushroom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/musical_keyboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/musical_note.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/musical_score.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/mute.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/nail_care.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/name_badge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/neckbeard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/necktie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/negative_squared_cross_mark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/neutral_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/new.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/new_moon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/new_moon_with_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/newspaper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ng.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/nine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/no_bell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/no_bicycles.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/no_entry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/no_entry_sign.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/no_good.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/no_mobile_phones.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/no_mouth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/no_pedestrians.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/no_smoking.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/non-potable_water.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/nose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/notebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/notebook_with_decorative_cover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/notes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/nut_and_bolt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/o.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/o2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ocean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/octocat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/octopus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/oden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/office.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ok.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ok_hand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ok_woman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/older_man.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/older_woman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/on.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/oncoming_automobile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/oncoming_bus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/oncoming_police_car.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/oncoming_taxi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/one.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/open_file_folder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/open_hands.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/open_mouth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ophiuchus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/orange_book.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/outbox_tray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/package.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/page_facing_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/page_with_curl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pager.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/palm_tree.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/panda_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/paperclip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/parking.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/part_alternation_mark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/partly_sunny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/passport_control.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/paw_prints.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/peach.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pencil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pencil2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/penguin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pensive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/performing_arts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/persevere.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/person_frowning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/person_with_blond_hair.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/person_with_pouting_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pig.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pig2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pig_nose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pineapple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pisces.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pizza.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/plus1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/point_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/point_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/point_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/point_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/point_up_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/police_car.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/poodle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/poop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/post_office.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/postal_horn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/postbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/potable_water.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pouch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/poultry_leg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pound.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pouting_cat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/princess.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/punch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/purple_heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/purse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/pushpin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/put_litter_in_its_place.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/question.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rabbit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rabbit2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/racehorse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/radio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/radio_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rage1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rage2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rage3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rage4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/railway_car.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rainbow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/raised_hand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/raised_hands.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/raising_hand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ramen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/recycle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/red_car.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/red_circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/registered.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/relaxed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/relieved.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/repeat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/repeat_one.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/restroom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/revolving_hearts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rewind.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ribbon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rice_ball.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rice_cracker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rice_scene.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ring.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rocket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/roller_coaster.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rooster.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rotating_light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/round_pushpin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rowboat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ru.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/rugby_football.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/runner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/running.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/running_shirt_with_sash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sagittarius.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sailboat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sandal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/santa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/satellite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/satisfied.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/saxophone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/school.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/school_satchel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/scissors.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/scorpius.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/scream.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/scream_cat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/scroll.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/seat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/secret.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/see_no_evil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/seedling.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/seven.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/shaved_ice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sheep.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/shell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ship.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/shipit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/shirt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/shit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/shoe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/shower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/signal_strength.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/simple_smile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/six.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/six_pointed_star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ski.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/skull.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sleeping.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sleepy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/slot_machine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/small_blue_diamond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/small_orange_diamond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/small_red_triangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/small_red_triangle_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/smile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/smile_cat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/smiley.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/smiley_cat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/smiling_imp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/smirk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/smirk_cat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/smoking.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/snail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/snake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/snowboarder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/snowflake.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/snowman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sob.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/soccer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/soon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sound.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/space_invader.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/spades.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/spaghetti.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sparkle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sparkler.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sparkles.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sparkling_heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/speak_no_evil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/speaker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/speech_balloon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/speedboat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/squirrel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/star2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/stars.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/station.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/statue_of_liberty.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/steam_locomotive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/stew.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/straight_ruler.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/strawberry.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/stuck_out_tongue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/stuck_out_tongue_closed_eyes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/stuck_out_tongue_winking_eye.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sun_with_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sunflower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sunglasses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sunny.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sunrise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sunrise_over_mountains.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/surfer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sushi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/suspect.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/suspension_railway.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sweat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sweat_drops.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sweat_smile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/sweet_potato.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/swimmer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/symbols.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/syringe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tada.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tanabata_tree.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tangerine.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/taurus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/taxi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/telephone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/telephone_receiver.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/telescope.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tennis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tent.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/thought_balloon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/three.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/thumbsdown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/thumbsup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/ticket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tiger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tiger2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tired_face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/toilet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tokyo_tower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tomato.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tongue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tophat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tractor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/traffic_light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/train.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/train2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/triangular_flag_on_post.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/triangular_ruler.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/trident.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/triumph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/trolleybus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/trollface.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/trophy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tropical_drink.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tropical_fish.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/truck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/trumpet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tshirt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tulip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/turtle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/tv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/twisted_rightwards_arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/two.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/two_hearts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/two_men_holding_hands.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/two_women_holding_hands.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u5272.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u5408.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u55b6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u6307.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u6708.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u6709.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u6e80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u7121.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u7533.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u7981.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/u7a7a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/uk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/umbrella.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/unamused.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/underage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/unlock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/us.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/v.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/vertical_traffic_light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/vhs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/vibration_mode.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/video_camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/video_game.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/violin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/virgo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/volcano.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/vs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/walking.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/waning_crescent_moon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/waning_gibbous_moon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/warning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/watch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/water_buffalo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/watermelon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/wave.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/wavy_dash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/waxing_crescent_moon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/waxing_gibbous_moon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/wc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/weary.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/wedding.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/whale.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/whale2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/wheelchair.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/white_check_mark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/white_circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/white_flower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/white_large_square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/white_medium_small_square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/white_medium_square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/white_small_square.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/white_square_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/wind_chime.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/wine_glass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/wink.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/wolf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/woman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/womans_clothes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/womans_hat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/womens.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/worried.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/wrench.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/yellow_heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/yen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/yum.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/zap.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/zero.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/emojis/zzz.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/posts/_post.html.erb" afterPath="$PROJECT_DIR$/app/views/posts/_post.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/initializers/assets.rb" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/show.html.erb" afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -39,11 +917,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="show.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="532">
+              <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registrations_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/users/registrations_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application_controller.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -52,75 +952,28 @@
       <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/users/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="323">
+              <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="missing.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/avatars/medium/missing.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="user.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/user.rb">
+      <file leaf-file-name="_love.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/posts/_love.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="266">
+              <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="_new.html.erb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/posts/_new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_post.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/posts/_post.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assets.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            <state relative-caret-position="342">
+              <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -195,8 +1048,6 @@
         <option value="$PROJECT_DIR$/db/schema.rb" />
         <option value="$PROJECT_DIR$/app/controllers/users/registrations_controller.rb" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/users/show.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/users/index.html.erb" />
@@ -206,6 +1057,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/posts/_post.html.erb" />
         <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/users/show.html.erb" />
       </list>
     </option>
   </component>
@@ -239,8 +1092,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="RailsProjectView" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -347,7 +1200,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -562,12 +1415,13 @@
       <workItem from="1488740855178" duration="1438000" />
       <workItem from="1488744400931" duration="2197000" />
       <workItem from="1488785736029" duration="9424000" />
-      <workItem from="1488897230917" duration="17295000" />
+      <workItem from="1488897230917" duration="23905000" />
+      <workItem from="1488951872918" duration="4588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260297000" />
+    <option name="totallyTimeSpent" value="271495000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -587,19 +1441,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905138" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32905138" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32837301" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -615,13 +1469,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/devise/sessions/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-764">
@@ -706,13 +1553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/posts/_new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -738,7 +1578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,21 +1585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1197">
           <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/groups/_index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/posts/_love.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -768,13 +1592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_top-navigation-bar.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="27" column="94" lean-forward="false" selection-start-line="27" selection-start-column="94" selection-end-line="27" selection-end-column="94" />
         </state>
       </provider>
     </entry>
@@ -827,15 +1644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/users/registrations_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -843,7 +1651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="50" column="93" lean-forward="true" selection-start-line="50" selection-start-column="93" selection-end-line="50" selection-end-column="93" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -851,7 +1658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="28" column="78" lean-forward="true" selection-start-line="28" selection-start-column="78" selection-end-line="28" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,23 +1679,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/system/users/avatars/000/000/001/thumb/anime_girl_graphic_hat_black_white_95170_1920x1080.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/system/users/avatars/000/000/001/thumb/anime_girl_graphic_hat_black_white_95170_1920x1080.jpg" />
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="56" lean-forward="false" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -899,19 +1693,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -923,27 +1708,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="266">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -951,23 +1719,100 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_top-navigation-bar.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="475">
+          <caret line="37" column="48" lean-forward="true" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        <state relative-caret-position="186">
+          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/initializers/assets.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/groups/_index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/concurrent-ruby-1.0.4/lib/concurrent/executor/serialized_execution.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/posts/_new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/posts/_love.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users/registrations_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="39" lean-forward="true" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="31" column="15" lean-forward="true" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#header#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
