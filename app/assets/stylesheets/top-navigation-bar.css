@@ -21,6 +21,17 @@ body {
 
 .navbar-left .glyphicon {
     line-height: 34px;
+
+}
+
+.navbar-user-with-logout .form-group{
+    display: flex;
+    line-height: 34px;
+}
+
+.navbar-user-with-logout .glyphicon {
+    margin-left: 50%;
+    line-height: 34px;
 }
 /* Next will center  and ditribute the right hand icons accros their space.
  * Uncomment if you want it */

@@ -5,7 +5,7 @@ class User < ApplicationRecord
   has_many :groups, :through => :group_maps
 
 
-  has_attached_file :avatar, styles: { medium: "250x250#", thumb: "40x40#" }, :default_url => "/avatars/medium/missing.png"
+  has_attached_file :avatar, styles: { medium: "250x250#", thumb: "40x40#", mini_thumb:"24x24#" }, :default_url => "/avatars/medium/missing.png"
   validates_attachment_content_type :avatar, content_type: /\Aimage\/.*\z/
 
   rolify
