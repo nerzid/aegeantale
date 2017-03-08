@@ -8,6 +8,7 @@ class ApplicationController < ActionController::Base
   end
 
 
+  # This is to let paperclip gem update the user's avatar
   protected
   def configure_permitted_parameters
     devise_parameter_sanitizer.permit(:avatar)
